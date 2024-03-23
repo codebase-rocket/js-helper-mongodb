@@ -1,0 +1,7 @@
+{
+  "PROTOCOL"  : "mongodb+srv",
+  "HOST"      : "main-ndb-ctp.fh1b51m.mongodb.net",
+  "USER"      : "root_ctp",
+  "PASS"      : "GqYX(lqgZ!dybP>XRJR_DrkX#VAEl",
+  "DATABASE"  : "ndb_ctp"
+}

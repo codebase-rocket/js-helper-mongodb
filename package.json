@@ -1,0 +1,26 @@
+{
+  "name": "@codebase-rocket/js-helper-mongodb",
+  "description": "Boilerplate library. Connects to No-Sql Database. Contains Wraper Functions for Mongodb",
+  "version": "1.0.2",
+  "main": "mongodb.js",
+  "keywords": [],
+  "private": false,
+  "license": "Private",
+  "author": {
+    "name": "Shivanshu Jindal"
+  },
+  "contributors": [],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  },
+  "peerDependencies": {
+    "js-helper-utils": "npm:@codebase-rocket/js-helper-utils@^1.0.0",
+    "js-helper-debug": "npm:@codebase-rocket/js-helper-debug@^1.0.0",
+    "js-helper-instance": "npm:@codebase-rocket/js-helper-instance@^1.0.0"
+  },
+  "devDependencies": {}
+}
